@@ -2,10 +2,10 @@
 A web application centered around itinerary building, 'Locals' allows you to customize your vacations based on suggestions from people who are residents in the location you are visiting, and provides you with customized map and itinerary for the day! 
 
 ## Notable Features
-Drag and Drop Itinerary Builder
-Google Calendar Integration
-Customized Maps
-Rating & Favoriting Locations
+- Drag and Drop Itinerary Builder
+- Google Calendar Integration
+- Customized Maps
+- Rating & Favoriting Locations
 
 ## Dependencies
 

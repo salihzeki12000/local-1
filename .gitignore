@@ -8,3 +8,4 @@ package-lock.json
 npm-debug.log
 locals_backup.sql
 *.sql
+bundle.js
